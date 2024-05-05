@@ -11,7 +11,7 @@ public class Main {
         Worker worker3 = new Worker("Michael", 5000, 2, "2020-03-20", "Tester");
 
         
-        Manager manager = new Manager("George", 10000, 3, "2019-11-01", "Project Manager");
+        Manager manager = new Manager("George", 10000, 3, "2019-11-01", "Department Head");
 
         
         ArrayList<Employee> employees = new ArrayList<>();
